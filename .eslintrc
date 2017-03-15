@@ -1,0 +1,4 @@
+# Must run "npm i --save-dev eslint-config-rallycoding" in every project
+{
+  "extends": "rallycoding"
+}
